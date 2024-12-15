@@ -1,0 +1,9 @@
+Cart Details:
+Date: 2024-12-15
+Time: 22:05:58
+
+Name: Basic tee
+Price: 1700
+Description: Round Neck Collar Quarter Sleeves
+Quantity:5
+

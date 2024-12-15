@@ -1,0 +1,10 @@
+{'name': 'Hoodie', 'Price': 3000, 'description': 'cotton'}
+{'name': 'Denim Jeans', 'Price': 3500, 'description': 'navy blue color'}
+{'name': 'Denim Jacket', 'Price': 3700, 'description': 'rare black colour'}
+{'name': 'Basic tee', 'Price': 1700, 'description': 'Round Neck Collar Quarter Sleeves'}
+{'name': 'Sweatshirt', 'Price': 2000, 'description': 'stretch fabric'}
+{'name': 'Muffler', 'Price': 1000, 'description': 'hand knitted'}
+{'name': 'Tote Bag', 'Price': 1500, 'description': 'Leather'}
+{'name': 'Body mist', 'Price': 1400, 'description': 'lavender'}
+{'name': 'Beanie', 'Price': 1500, 'description': 'cotton'}
+{'name': 'Watch', 'Price': 1000, 'description': 'Stainless steel'}
